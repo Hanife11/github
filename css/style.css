@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(106, 166, 170);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;   
+}
+
+.container{
+    width: 500px;
+    margin: 80%;
+}
+
+.Box-1{
+    background-color: rgb(52, 165, 42);
+}
+
+.Box-2{
+    background-color: rgb(89, 0, 255);
+}
+
+.categories{
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.categories ul{
+    padding-bottom: 2px;
+}
+
+.categories li{
+    padding-bottom: 2px;
+}
+
+.form{
+    padding: 20px;
+}
+
+.form   .form-element{
+    padding-bottom: 15px;
+}
+
+.form label{
+    display: block;
+}
+.form input[type="text"], .form textarea {
+    padding: 8px;
+    width:80% ;
+}
+
+.table{
+    background-color: rgb(255, 0, 98);
+}
